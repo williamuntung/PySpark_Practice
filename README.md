@@ -1,6 +1,6 @@
 # PySpark\_Practice
 
-PySpark Practice (Linear - Logistic Regression)
+PySpark Practice 
 
 
 
@@ -54,8 +54,4 @@ Package:
 Model : Linear Regression
 
 Dataset : bitcoin.csv
-
-
-
-
 
